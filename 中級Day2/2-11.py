@@ -5,11 +5,11 @@
 # 体重を表すプロパティ: weight
 
 class Person:
-    def __init__(self, name, age, height, weight):
-        self.name = name
-        self.age = age
-        self.height = height
-        self.weight = weight
+    def __init__(kenny, name, age, height, weight):
+        kenny.name = name
+        kenny.age = age
+        kenny.height = height
+        kenny.weight = weight
 
 def main():
     p1 = Person('Bob', 25, 170, 60)

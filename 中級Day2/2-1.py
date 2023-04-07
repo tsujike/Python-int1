@@ -7,5 +7,3 @@ print(id(y), type(y))
 print(x == y)
 print(x is y)
 
-#idってメモリアドレスのこと？
-
